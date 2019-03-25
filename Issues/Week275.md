@@ -9,7 +9,7 @@
 
 **Tools/Controls**
 
-* 
+* [RoughSwift](https://github.com/onmyway133/RoughSwift), by [@onmyway133](http://www.twitter.com/onmyway133)
 
 **Business/Career**
 
@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [hungtruong](https://twitter.com/hungtruong), [naeemshaikh90](https://github.com/naeemshaikh90)
+* [hungtruong](https://twitter.com/hungtruong), [naeemshaikh90](https://github.com/naeemshaikh90), [onmyway133](https://github.com/onmyway133)
